@@ -8,6 +8,8 @@ import {
   FaBehance,
 } from "react-icons/fa";
 
+
+
 const Footer = () => {
   return (
     <div className="w-full bg-white py-24">
